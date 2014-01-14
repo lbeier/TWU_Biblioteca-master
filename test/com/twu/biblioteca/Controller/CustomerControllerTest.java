@@ -103,4 +103,6 @@ public class CustomerControllerTest {
 
         verify(customerViewMock, atLeastOnce()).unsuccessfulCheckIn();
     }
+
+    
 }
